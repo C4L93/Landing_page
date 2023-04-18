@@ -147,3 +147,9 @@ h3 {
 .bluebutton {
     flex: 1;
 }
+
+footer {
+    background-color: #1f2937;
+    padding: 25px 0;
+    color: #f9faf8;
+}
